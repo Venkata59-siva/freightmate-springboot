@@ -1,5 +1,6 @@
 Please follow below steps to run the application
-1. import as existing maven project into the eclipse/springtoolsuite
+1. clone the project using git clone cmd 
+1.1 import as existing maven project into the eclipse/springtoolsuite
 2. set the jre as 1.8 in eclipse/springtoolsuite
 3. maven clean install the project
 mvn clean install
