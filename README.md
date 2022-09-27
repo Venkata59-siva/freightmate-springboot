@@ -1,0 +1,1 @@
+# freightmate-springboot
